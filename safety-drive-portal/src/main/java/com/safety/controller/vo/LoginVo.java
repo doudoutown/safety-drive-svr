@@ -12,4 +12,5 @@ import lombok.*;
 public class LoginVo {
     String token;
     String username;
+    String password;
 }

@@ -12,6 +12,8 @@ public class Context {
         this.username = username;
     }
 
+    public Context() {}
+
     public Context(String username) {
         this.username = username;
     }
